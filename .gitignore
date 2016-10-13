@@ -1,0 +1,5 @@
+# folder logs (comment)
+logs/
+
+# .txt files ignoring
+docs/*.txt
